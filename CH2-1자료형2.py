@@ -1,3 +1,4 @@
+#포매팅
 a = "i eat %d apples." %3 # %d 는 밖에 %3과 꺼내서 쓸수 있다
 print(a)
 
